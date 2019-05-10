@@ -1,1 +1,1 @@
-# Get back to computer science topics with JS
+# Get back to computer science fundamental topics with JS
